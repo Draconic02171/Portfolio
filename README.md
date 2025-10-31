@@ -1,6 +1,8 @@
-# Natkamon Huaihongthong
-
-### Game Developer | Software Engineer
+<div id="header" align="center">
+    <img src="[myFace.png]" width="100" style="border-radius: 50%;"/>
+    <h1>Natkamon Huaihongthong</h1>
+    <h3>🎮 Game Developer | 💻 Software Engineer</h3>
+</div>
 
 ---
 
