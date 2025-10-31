@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="myFace.png" width="200" style="border-radius: 100%;"/>
+    <img src="myFace.jpg" width="200" style="border-radius: 100%;"/>
     <h1>Natkamon Huaihongthong</h1>
     <h3>🎮 Game Developer | 💻 Software Engineer</h3>
 </div>
