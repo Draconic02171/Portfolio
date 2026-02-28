@@ -8,7 +8,7 @@
 
 ## About Me
 
-**An ambitious developer** with hands-on experience in building **gameplay systems**, **procedural generation**, and **network-based features**. I aim for performance and efficient products, leveraging a strong foundation in **C, C++, Lua**, and system design principles.
+**An ambitious developer** with hands-on experience in building **gameplay systems**, **procedural generation**, and **network-based features**. I aim for performance and efficient products, leveraging a strong foundation in **C, Lua**, and system design principles.
 
 *  **Location:** Thailand
 *  **Currently Learning:** V, Rust, and Python.
